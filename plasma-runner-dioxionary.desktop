@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=KRunner Dioxionary
+Comment=Using dioxionary to query words in krunner.
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=Terminal
+X-KDE-PluginInfo-Author=Reverier-Xu
+X-KDE-PluginInfo-Email=reverier.xu@woooo.tech
+X-KDE-PluginInfo-Name=KRunner Dioxionary
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL-3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=org.kde.dioxionary
+X-Plasma-DBusRunner-Path=/dioxionary

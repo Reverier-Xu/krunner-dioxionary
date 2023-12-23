@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.kde.dioxionary
+Exec=/usr/bin/python3 "%{PROJECTDIR}/krunner_dioxionary.py"
